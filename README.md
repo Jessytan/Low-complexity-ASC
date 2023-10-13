@@ -1,5 +1,5 @@
 # Low-complexity-ASC
-This repository is dedicated to the submission to IEEE ICASSP2024, and the Tan submission of DCASE2023,Task 1,Low-Complexity Acoustic Scene Classification.
+This repository is dedicated to the submission to IEEE ICASSP2024, and the Tan submission of DCASE2023,Task 1, Low-Complexity Acoustic Scene Classification.
 - [Datasets](#datasets)
 - [Enviroment](#environment)
 - [Code](#code)
@@ -9,5 +9,4 @@ This repository is dedicated to the submission to IEEE ICASSP2024, and the Tan s
 # datasets
 We conduct our experiments on the TAU Urban Acoustic Scene 2022 Mobile development dataset (TAU22) which consists of audio clips acquired by mobile devices in urban environments. You can download from [here](https://doi.org/10.5281/zenodo.6337421).
 # enviroment
-The required library files are placed in requirements.txt
-our environment: RTX3090 + cuda11.3 + torch1.11
+The required library files are placed in requirements.txt  our environment: RTX3090 + cuda11.3 + torch1.11
