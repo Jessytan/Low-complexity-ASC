@@ -5,7 +5,7 @@ This repository is dedicated to the submission to IEEE ICASSP2024, and the Tan s
 - [Code](#code)
 	- [reuse](#reuse)
 	- [main](#main)
-- [Code](#code)
+ - [Contact](contact)
 # datasets
 We conduct our experiments on the TAU Urban Acoustic Scene 2022 Mobile development dataset (TAU22) which consists of audio clips acquired by mobile devices in urban environments. You can download from [here](https://doi.org/10.5281/zenodo.6337421).
 # enviroment
@@ -17,3 +17,6 @@ You need to create a directory named reuse to save training and validation data,
 ## main
 [main.ipynb](main.ipynb) is the main code for training and validating the datasets.  
 Teacher models are same with the submission to the DCASE2023, and some are pretrained and provided in [teacher_models](teacher_models).
+# contact
+Yanxiong Li [eeyxli@scut.edu.cn](eeyxli@scut.edu.cn) and Jiaxin Tan [tanjiaxin02@126.com](tanjiaxin02@126.com)
+If you have any questions, please contact us.
