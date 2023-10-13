@@ -3,7 +3,7 @@ This repository is dedicated to the submission to IEEE ICASSP2024, and the Tan s
 - [Datasets](#datasets)
 - [Enviroment](#environment)
 - [Code](#code)
-	- [REUSE](#reuse)
+	- [reuse](#reuse)
 	- [main](#main)
 - [Code](#code)
 # datasets
@@ -13,3 +13,4 @@ The required library files are placed in requirements.txt
 Our environment: RTX3090 + cuda11.3 + torch1.11
 # code
 ## reuse
+You need to create a directory named reuse to save training and validation data, and in the estimate.ipy will used for spectrum modulation
