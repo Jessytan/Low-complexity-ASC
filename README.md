@@ -18,5 +18,5 @@ You need to create a directory named reuse to save training and validation data,
 [main.ipynb](main.ipynb) is the main code for training and validating the datasets.  
 Teacher models are same with the submission to the DCASE2023, and some are pretrained and provided in [teacher_models](teacher_models).
 # contact
-Yanxiong Li [eeyxli@scut.edu.cn](eeyxli@scut.edu.cn) and Jiaxin Tan [tanjiaxin02@126.com](tanjiaxin02@126.com)
+Yanxiong Li [eeyxli@scut.edu.cn]<eyxli@scut.edu.cn> and Jiaxin Tan [tanjiaxin02@126.com]<tanjiaxin02@126.com>
 If you have any questions, please contact us.
