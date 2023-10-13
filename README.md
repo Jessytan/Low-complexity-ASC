@@ -13,4 +13,4 @@ The required library files are placed in requirements.txt
 Our environment: RTX3090 + cuda11.3 + torch1.11
 # code
 ## reuse
-You need to create a directory named reuse to save training and validation data, and in the estimate.ipy will used for spectrum modulation
+You need to create a directory named reuse to save training and validation data, and in the [estimate_devices_freq.ipynb](estimate_devices_freq.ipynb) will used for spectrum modulation
