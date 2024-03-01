@@ -2,12 +2,11 @@ class config:
     def __init__(self):
 
         #restore
-        self.cache_path = "/data/datasets/TAU-urban-acoustic-scenes-2022-mobile-development/re-data"
-        
+
+        self.project_name = "Low-complexity-ASC"
         #
         self.dir_prob = 0.15
         self.dirs_path="/data/jessy/my/datasets/dirs"
-
         
         #原参数
         # wav to mel
@@ -32,7 +31,7 @@ class config:
         self.DIFF_FREQ = True
         self.MIXUP = True
         self.SPEC_AUG = True
-    
+        self.lamda = 0.02#0.226
         
         # define knowledge distillation parameters
         self.temperature = 2.0
