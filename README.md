@@ -15,6 +15,6 @@ Our environment: RTX3090 + cuda11.3 + torch1.11
 ## reuse
 You need to create a directory named reuse to save training and validation data, and in the [estimate_devices_freq.ipynb](estimate_devices_freq.ipynb) will used for spectrum modulation.
 ## main
-[main.ipynb](main.ipynb) is the main code for training and validating the datasets.  
+[student.ipynb](main.ipynb) is the main code for training and validating the datasets.  
 Teacher models are same with the submission to the DCASE2023, and some are pretrained and provided in [teacher_models](teacher_models).
 
