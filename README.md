@@ -4,7 +4,6 @@
 - [Code](#code)
 	- [reuse](#reuse)
 	- [main](#main)
- - [Contact](contact)
 # datasets
 We conduct our experiments on the TAU Urban Acoustic Scene 2022 Mobile development dataset (TAU22) which consists of audio clips acquired by mobile devices in urban environments. You can download from [here](https://doi.org/10.5281/zenodo.6337421).
 # enviroment
