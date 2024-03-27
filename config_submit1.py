@@ -8,7 +8,7 @@ class config:
         self.dir_prob = 0.15
         self.dirs_path="/data/jessy/my/datasets/dirs"
         
-        #原参数
+        
         # wav to mel
         self.sample_rate = 44100 
         self.n_fft = 4096 
