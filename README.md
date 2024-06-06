@@ -18,5 +18,5 @@ You need to create a directory named reuse to save training and validation data,
 [student.ipynb](student.ipynb) is the main code for training and validating the datasets.  
 Teacher models are same with the submission to the DCASE2023, and some are pretrained and provided in [teacher_models](teacher_models).
 # citation
-Please cite our paper if you find the work in our paper are useful for your research.
+Please cite our paper if you find the work in our paper are useful for your research.  
 [1] Y. Li, J. Tan, G. Chen, J. Li, Y. Si, and Q. He, "Low-Complexity Acoustic Scene Classification Using Parallel Attention-Convolution Network," in Proc. of Interspeech,  2024.
