@@ -1,4 +1,5 @@
 # Low-complexity-ASC
+This repository contains the introductions to the datasets and code used in our paper, titled "Low-Complexity Acoustic Scene Classification Using Parallel Attention-Convolution Network" (as shown in the section of Citation).
 - [Datasets](#datasets)
 - [Enviroment](#environment)
 - [Code](#code)
